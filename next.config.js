@@ -11,7 +11,3 @@ module.exports = withBundleAnalyzer({
     domains: ['pbs.twimg.com']
   }
 })
-
-module.exports = {
-  assetPrefix: isProd ? '/luis/' : ''
-}
