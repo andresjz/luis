@@ -164,17 +164,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
   }
 
   return (
-    <div></div>
-    /*
-    <TwitterContextProvider
-      value={{
-        tweetAstMap: (recordMap as any).tweetAstMap || {},
-        swrOptions: {
-          fetcher: (id) =>
-            fetch(`/api/get-tweet-ast/${id}`).then((r) => r.json())
-        }
-      }}
-    >
+    <div>
       <PageHead site={site} />
 
       <Head>
@@ -254,7 +244,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
           code: Code,
           collection: Collection,
           collectionRow: CollectionRow,
-          tweet: Tweet,
+          tweet: null,
           modal: Modal,
           equation: Equation
         }}
@@ -282,7 +272,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         }
       />
 
-      <GitHubShareButton />
-    </TwitterContextProvider> */
+      <GitHubShareButton /> 
+      </div>
   )
 }
