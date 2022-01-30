@@ -148,3 +148,43 @@ By default, every article page will have a table of contents displayed as an `as
 If a page has less than `minTableOfContentsItems` (default 3), the table of contents will be hidden. It is also hidden on the index page and if the browser window is too small.
 
 This table of contents uses the same logic that Notion uses for its built-in Table of Contents block (see [getPageTableOfContents](https://github.com/NotionX/react-notion-x/blob/master/packages/notion-utils/src/get-page-table-of-contents.ts) for the underlying logic and associated unit tests).
+
+
+# Deploy things
+
+1. create this file
+
+```
+// next.config.js
+const isProd = process.env.NODE_ENV === 'production'
+
+module.exports = {
+  assetPrefix: isProd ? '/your-github-repo-name/' : ''
+}
+
+```
+
+
+2. Place a .nojekyll file in the /public directory to disable Github Pages from trying to create a Jekyll website.
+
+
+The tree should look like this:
+
+
+├── pages
+├── public
+│   └── .nokjekyll
+├── styles
+├── next.config.js
+
+
+
+Generate deploy key:
+
+```
+ssh-keygen -t rsa -b 4096 -C "$(git config user.email)" -f gh-pages -N ""
+AND UPLOAD into Settings > actions
+
+```
+
+Run the action
