@@ -4,5 +4,9 @@ a-test:
 a-build:
 	yarn build && yarn export
 
+a-run:
+	yarn run dev
+
 a-prepare:
-	nvm use v12.22.9 
+	nvm use v12.22.9
+	yarn install
