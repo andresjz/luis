@@ -152,7 +152,7 @@ This table of contents uses the same logic that Notion uses for its built-in Tab
 
 # Deploy things
 
-1. create this file
+1. create this file (In my case it was not necessary 🤷
 
 ```
 // next.config.js
@@ -173,7 +173,8 @@ The tree should look like this:
 
 ├── pages
 ├── public
-│   └── .nokjekyll
+│   └── .nojekyll
+│   └── CNAME
 ├── styles
 ├── next.config.js
 
@@ -183,7 +184,10 @@ Generate deploy key:
 
 ```
 ssh-keygen -t rsa -b 4096 -C "$(git config user.email)" -f gh-pages -N ""
-AND UPLOAD into Settings > actions
+Upload Public into Settings > actions > deploy keys
+Upload Private into Settings > actions > secrets
+
+delete them from local
 
 ```
 
