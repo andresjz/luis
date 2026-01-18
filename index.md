@@ -48,20 +48,66 @@ I am continuously learning and applying new skills to enhance performance and se
 - **Operating Systems:** Windows, Linux, MacOS
 - **Other Tools:** Zapier, Jupyter, Microsoft Office
 
+
+```mermaid
+mindmap
+  root((Luis<br/>DevOps Engineer))
+    Cloud Platforms
+      AWS
+        Solutions Architect
+        EKS
+        CDK
+      GCP
+        Associate Engineer
+      Azure
+    DevOps Tools
+      CI/CD
+        Jenkins
+        GitHub Actions
+      IaC
+        Terraform
+        Ansible
+        Chef
+      Containers
+        Docker
+        Kubernetes
+        Helm
+    Programming
+      Backend
+        Java
+        Spring Boot
+      Frontend
+        Angular
+        React
+      Scripting
+        Python
+        Ruby
+        Bash
+    Monitoring
+      Datadog
+      Prometheus
+      Grafana
+      Sumologic
+```
+
 ---
 
 ## 🏆 Certifications
 
-- **AWS Certified Solutions Architect Associate** (February 2024)
-- **Google Associate Cloud Engineer** (July 2024)
-- **AWS Certified Cloud Practitioner** (June 2023)
-- **Tableau Desktop Specialist** (August 2023)
-- **Scrum Foundation Professional Certification** (March 2023)
-- **DevOps Culture and Mindset** (May 2021)
-- **Developing a Google SRE Culture** (March 2021)
-- **Google Cloud Platform Fundamentals: Core Infrastructure** (2021)
-- **Certificate in Mechatronics** - Monterrey Institute of Technology (2013-2014)
-- **Cisco Certified Entry Networking Technician (CCENT)** (2012)
+```mermaid
+timeline
+    title Certificaciones Profesionales
+    2012 :  CCENT
+    2013-2014 : Certificate in Mechatronics
+    2021 : DevOps Culture and Mindset
+         : Developing Google SRE Culture
+         : GCP Fundamentals
+    2023 : AWS Cloud Practitioner (June)
+         : Scrum Foundation (March)
+         : Tableau Desktop Specialist (Aug)
+    2024 : AWS Solutions Architect Associate (Feb)
+         : Google Associate Cloud Engineer (July)
+```
 
 ---
 
