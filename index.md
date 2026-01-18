@@ -102,7 +102,6 @@ I am continuously learning and applying new skills to enhance performance and se
 
 ## 🎓 Education
 
-Campus Central de Veracruz, Córdoba, Veracruz  
 _B.S. in Computer Science and Technology_
 
 ---
@@ -141,7 +140,7 @@ I'm open to collaborating on:
 ## 📫 Contact
 
 - 📧 **Email:** [lajuarezs@gmail.com](mailto:lajuarezs@gmail.com)
-- 🌍 **Location:** Veracruz, México
+- 🌍 **Location:** México
 - 🗣️ **Languages:** Spanish (Native), English (Upper Intermediate)
 
 ---
