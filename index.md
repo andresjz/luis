@@ -94,6 +94,7 @@ mindmap
       Gemini
       MCP
       CrewAI
+      RAG
 ```
 
 ---
@@ -113,8 +114,7 @@ timeline
          : Tableau Desktop Specialist
     2024 : AWS Solutions Architect Associate
          : Google Associate Cloud Engineer
-    2025 : Introduction to Bioinformatics
-         : UC San Diego Extended Studies
+    2025 : Introduction to Bioinformatics UC San Diego Extended Studies
 ```
 
 ---
