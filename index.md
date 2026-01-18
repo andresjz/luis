@@ -102,7 +102,6 @@ I am continuously learning and applying new skills to enhance performance and se
 
 ## 🎓 Education
 
-**Monterrey Institute of Technology and Higher Education**  
 Campus Central de Veracruz, Córdoba, Veracruz  
 _B.S. in Computer Science and Technology_
 
