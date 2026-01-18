@@ -114,7 +114,7 @@ timeline
     2024 : AWS Solutions Architect Associate
          : Google Associate Cloud Engineer
     2025 : Introduction to Bioinformatics
-           UC San Diego Extended Studies
+         : UC San Diego Extended Studies
 ```
 
 ---
