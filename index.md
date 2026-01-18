@@ -157,7 +157,7 @@ I'm open to collaborating on:
 
 ## ⚡ Fun Fact
 
-Cloud DevOps Engineer is the tech wizard who secretly runs on coffee and the sheer thrill of making computers talk to each other nicely. They're the ones making sure your apps don't throw a tantrum in the cloud, all while probably thinking, 'If I can automate this, I can probably automate my laundry too.'
+A Cloud DevOps Engineer is the tech wizard who secretly runs on coffee and the sheer thrill of making computers talk to each other nicely. They're the ones making sure your apps don't throw a tantrum in the cloud, all while probably thinking, 'If I can automate this, I can probably automate my laundry too.'
 
 ---
 
