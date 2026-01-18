@@ -7,14 +7,15 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Just Another Temp Stuff site',
+  name: 'Luis - DevOps Engineer & AI Enthusiast',
   domain: 'tmpstuff.com',
   author: 'Luis Juárez',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Temp Stuff',
-  socialImageSubtitle: 'Hello World! 👋',
+  description:
+    'Professional Engineer with 7+ years in Web Development and Cloud Technologies. Senior DevOps Engineer & Technical Lead passionate about automation, cloud innovation, and AI.',
+  socialImageTitle: 'Luis Juárez',
+  socialImageSubtitle: 'DevOps Engineer | Cloud Architect | AI Enthusiast',
 
   // social usernames (optional)
   twitter: 'andresjz',
