@@ -3,3 +3,4 @@ description: DevOps Engineer | Software Enginer | AI Enthusiast
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+mermaid: true
