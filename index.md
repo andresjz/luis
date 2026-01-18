@@ -10,7 +10,7 @@ layout: default
 
 ## 💼 About Me
 
-I'm a **Professional Engineer** with over 7 years of experience in **Web Development** and **Cloud Technologies**, with a background in Cybersecurity, Financial Services, and Private Healthcare.
+I'm a **Professional Engineer** with over 9 years of experience in **Web Development** and **Cloud Technologies**, with a background in Cybersecurity, Financial Services, and Private Healthcare.
 
 Currently, I specialize as a **Senior DevOps Engineer** and **Technical Lead**, passionate about automation, DevOps culture, and cloud innovation. I thrive on building reliable, scalable, and secure solutions using AWS, GCP, and Azure, and enjoy sharing my knowledge and learning from the tech community.
 
@@ -88,6 +88,12 @@ mindmap
       Prometheus
       Grafana
       Sumologic
+    AI
+      AgentCore
+      OpenAI
+      Gemini
+      MCP
+      CrewAI
 ```
 
 ---
@@ -96,17 +102,19 @@ mindmap
 
 ```mermaid
 timeline
-    title Certificaciones Profesionales
+    title Certifications
     2012 :  CCENT
     2013-2014 : Certificate in Mechatronics
     2021 : DevOps Culture and Mindset
          : Developing Google SRE Culture
          : GCP Fundamentals
-    2023 : AWS Cloud Practitioner (June)
-         : Scrum Foundation (March)
-         : Tableau Desktop Specialist (Aug)
-    2024 : AWS Solutions Architect Associate (Feb)
-         : Google Associate Cloud Engineer (July)
+    2023 : AWS Cloud Practitioner
+         : Scrum Foundation
+         : Tableau Desktop Specialist
+    2024 : AWS Solutions Architect Associate
+         : Google Associate Cloud Engineer
+    2025 : Introduction to Bioinformatics
+           UC San Diego Extended Studies
 ```
 
 ---
@@ -185,7 +193,7 @@ I'm open to collaborating on:
 
 ## 📫 Contact
 
-- 📧 **Email:** [lajuarezs@gmail.com](mailto:lajuarezs@gmail.com)
+- 📧 **Email:** [contact](mailto:sandbox@tmpstuff.com)
 - 🌍 **Location:** México
 - 🗣️ **Languages:** Spanish (Native), English (Upper Intermediate)
 
